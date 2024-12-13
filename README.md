@@ -1,0 +1,2 @@
+# auv_dubins_path_planning
+一个用于auv海底地形探测的路径规划，可以导出路径点
